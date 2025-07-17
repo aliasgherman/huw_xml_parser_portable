@@ -881,3 +881,910 @@
 [ 2025-07-07 19:57:18,977 ] [ PARSER_XML ][ INFO ] Exporting files to C:\Users\ALI.MANSOOR\Downloads\TEMP_DELETE\Huawei MR Data 2025-06-15\dumpparsing\output\20250707_1937
 [ 2025-07-07 19:57:18,978 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250701
 [ 2025-07-07 19:58:09,674 ] [ PARSER_XML ][ INFO ] All files have been processed.
+[ 2025-07-09 12:40:50,296 ] [ PARSER_XML ][ INFO ] Initialized a new Parser object. Name of the thread is ParserGUI
+[ 2025-07-09 12:40:50,297 ] [ PARSER_XML ][ WARNING ] Date filter is overridden. Will use this filter for directory. 2025
+[ 2025-07-09 12:40:50,310 ] [ PARSER_XML ][ INFO ] Total files to be processed are : 222
+[ 2025-07-09 12:40:50,337 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS1320_Al-Karanah_10.6.31.1_20250603020337.xml.gz
+[ 2025-07-09 12:40:50,338 ] [ PARSER_XML ][ INFO ] Processing file number (000/222)
+[ 2025-07-09 12:40:50,536 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 12:40:50,537 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 12:41:46,538 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS1324_Umm-Saeed-Rd_10.6.41.37_20250603022053.xml.gz
+[ 2025-07-09 12:41:46,539 ] [ PARSER_XML ][ INFO ] Processing file number (001/222)
+[ 2025-07-09 12:41:46,945 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 12:41:46,945 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 12:43:17,933 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS1326_Jeryan-Al-Butna_10.6.43.41_20250603022526.xml.gz
+[ 2025-07-09 12:43:17,934 ] [ PARSER_XML ][ INFO ] Processing file number (002/222)
+[ 2025-07-09 12:43:18,124 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 12:43:18,124 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 12:44:40,442 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS1327_Nakhsh_10.6.31.5_20250603020314.xml.gz
+[ 2025-07-09 12:44:40,443 ] [ PARSER_XML ][ INFO ] Processing file number (003/222)
+[ 2025-07-09 12:44:40,540 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 12:44:40,541 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 12:45:24,360 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS1330_Ain-Hamad_10.6.30.241_20250603020337.xml.gz
+[ 2025-07-09 12:45:24,361 ] [ PARSER_XML ][ INFO ] Processing file number (004/222)
+[ 2025-07-09 12:45:24,550 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 12:45:24,550 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 12:46:48,702 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS1331_Abu-Samra_10.6.36.157_20250603021431.xml.gz
+[ 2025-07-09 12:46:48,703 ] [ PARSER_XML ][ INFO ] Processing file number (005/222)
+[ 2025-07-09 12:46:48,852 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 12:46:48,853 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 12:47:39,138 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS1333_Ummsaid-North_10.6.16.141_20250603020422.xml.gz
+[ 2025-07-09 12:47:39,139 ] [ PARSER_XML ][ INFO ] Processing file number (006/222)
+[ 2025-07-09 12:47:39,278 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 12:47:39,278 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 12:48:48,644 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS1334_Ummsaid-South_10.6.16.145_20250603020422.xml.gz
+[ 2025-07-09 12:48:48,645 ] [ PARSER_XML ][ INFO ] Processing file number (007/222)
+[ 2025-07-09 12:48:48,847 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 12:48:48,848 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 12:49:57,518 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS1336_Ummsaid-Market_10.6.16.149_20250603020422.xml.gz
+[ 2025-07-09 12:49:57,519 ] [ PARSER_XML ][ INFO ] Processing file number (008/222)
+[ 2025-07-09 12:49:57,744 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 12:49:57,745 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 12:51:12,306 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS1337_UMI_10.6.16.153_20250603020422.xml.gz
+[ 2025-07-09 12:51:12,306 ] [ PARSER_XML ][ INFO ] Processing file number (009/222)
+[ 2025-07-09 12:51:12,434 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 12:51:12,434 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 12:52:06,954 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS1338_MIC-QP-NGL_10.6.41.181_20250603022411.xml.gz
+[ 2025-07-09 12:52:06,955 ] [ PARSER_XML ][ INFO ] Processing file number (010/222)
+[ 2025-07-09 12:52:07,102 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 12:52:07,103 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 12:52:52,675 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS1346_Sealine-Beach_10.6.19.241_20250603020840.xml.gz
+[ 2025-07-09 12:52:52,676 ] [ PARSER_XML ][ INFO ] Processing file number (011/222)
+[ 2025-07-09 12:52:52,809 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 12:52:52,810 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 12:53:36,008 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS1350_Qatar-Steel-Mesaieed_10.6.41.185_20250603021656.xml.gz
+[ 2025-07-09 12:53:36,009 ] [ PARSER_XML ][ INFO ] Processing file number (012/222)
+[ 2025-07-09 12:53:36,155 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 12:53:36,155 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 12:54:34,187 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS1353_Umm-Said-East_10.6.16.157_20250603020422.xml.gz
+[ 2025-07-09 12:54:34,188 ] [ PARSER_XML ][ INFO ] Processing file number (013/222)
+[ 2025-07-09 12:54:34,395 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 12:54:34,395 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 12:55:44,839 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS1366_Salwa-Rd-B_10.6.30.237_20250603020337.xml.gz
+[ 2025-07-09 12:55:44,840 ] [ PARSER_XML ][ INFO ] Processing file number (014/222)
+[ 2025-07-09 12:55:45,013 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 12:55:45,014 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 12:56:55,499 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS1367_Salwa-Rd-A_10.6.30.253_20250603020314.xml.gz
+[ 2025-07-09 12:56:55,500 ] [ PARSER_XML ][ INFO ] Processing file number (015/222)
+[ 2025-07-09 12:56:55,667 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 12:56:55,667 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 12:58:20,428 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS1391_Al-Wakra-South-RD_10.6.21.165_20250603022312.xml.gz
+[ 2025-07-09 12:58:20,429 ] [ PARSER_XML ][ INFO ] Processing file number (016/222)
+[ 2025-07-09 12:58:20,586 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 12:58:20,587 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 12:59:27,510 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS1413_New-Doha-Port-01_10.6.16.161_20250603020422.xml.gz
+[ 2025-07-09 12:59:27,511 ] [ PARSER_XML ][ INFO ] Processing file number (017/222)
+[ 2025-07-09 12:59:27,678 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 12:59:27,679 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:00:33,987 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS1426_Um-Saeed-Factory_10.6.16.165_20250603020422.xml.gz
+[ 2025-07-09 13:00:33,987 ] [ PARSER_XML ][ INFO ] Processing file number (018/222)
+[ 2025-07-09 13:00:34,171 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:00:34,171 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:01:30,390 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS1428_ii-Geo_10.6.19.245_20250603020840.xml.gz
+[ 2025-07-09 13:01:30,391 ] [ PARSER_XML ][ INFO ] Processing file number (019/222)
+[ 2025-07-09 13:01:30,483 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:01:30,483 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:02:10,787 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS1434_VII-Geo_10.6.20.1_20250603020840.xml.gz
+[ 2025-07-09 13:02:10,788 ] [ PARSER_XML ][ INFO ] Processing file number (020/222)
+[ 2025-07-09 13:02:10,890 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:02:10,890 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:02:51,742 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS1452_Berkat-Al-Awamer_10.6.21.177_20250603020345.xml.gz
+[ 2025-07-09 13:02:51,743 ] [ PARSER_XML ][ INFO ] Processing file number (021/222)
+[ 2025-07-09 13:02:51,914 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:02:51,915 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:04:11,328 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS1468_Umm-Said-Housing_10.6.16.169_20250603020422.xml.gz
+[ 2025-07-09 13:04:11,329 ] [ PARSER_XML ][ INFO ] Processing file number (022/222)
+[ 2025-07-09 13:04:11,460 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:04:11,461 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:05:14,833 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS1492_Camp-SD_10.6.32.57_20250603020459.xml.gz
+[ 2025-07-09 13:05:14,835 ] [ PARSER_XML ][ INFO ] Processing file number (023/222)
+[ 2025-07-09 13:05:15,037 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:05:15,038 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:06:51,052 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS1493_QAFCO_10.6.41.41_20250603022133.xml.gz
+[ 2025-07-09 13:06:51,052 ] [ PARSER_XML ][ INFO ] Processing file number (024/222)
+[ 2025-07-09 13:06:51,214 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:06:51,215 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:07:53,360 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS1536_Al-Wukeer_10.6.32.9_20250603020449.xml.gz
+[ 2025-07-09 13:07:53,361 ] [ PARSER_XML ][ INFO ] Processing file number (025/222)
+[ 2025-07-09 13:07:53,697 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:07:53,698 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:09:30,178 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS1537_Al-Mbeerik_10.6.32.17_20250603020425.xml.gz
+[ 2025-07-09 13:09:30,178 ] [ PARSER_XML ][ INFO ] Processing file number (026/222)
+[ 2025-07-09 13:09:30,324 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:09:30,325 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:09:38,253 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS1553_Us-Air-Base_10.6.38.61_20250603021654.xml.gz
+[ 2025-07-09 13:09:38,254 ] [ PARSER_XML ][ INFO ] Processing file number (027/222)
+[ 2025-07-09 13:09:38,438 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:09:38,438 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:09:47,016 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS1554_Umm-Saeed-Rd-I_10.6.20.5_20250603020847.xml.gz
+[ 2025-07-09 13:09:47,017 ] [ PARSER_XML ][ INFO ] Processing file number (028/222)
+[ 2025-07-09 13:09:47,231 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:09:47,232 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:09:57,229 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS1577_New-Doha-Port-02-Customs_10.6.16.173_20250603020439.xml.gz
+[ 2025-07-09 13:09:57,231 ] [ PARSER_XML ][ INFO ] Processing file number (029/222)
+[ 2025-07-09 13:09:57,425 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:09:57,426 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:11:23,600 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS1581_Mesaieed-Industrial-City_10.6.16.177_20250603020439.xml.gz
+[ 2025-07-09 13:11:23,601 ] [ PARSER_XML ][ INFO ] Processing file number (030/222)
+[ 2025-07-09 13:11:23,761 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:11:23,762 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:12:44,353 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS1625_Qatalum-Village_10.6.19.161_20250603021105.xml.gz
+[ 2025-07-09 13:12:44,354 ] [ PARSER_XML ][ INFO ] Processing file number (031/222)
+[ 2025-07-09 13:12:44,615 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:12:44,616 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:14:03,283 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS1626_Al-Kharrara-South_10.6.43.73_20250603022228.xml.gz
+[ 2025-07-09 13:14:03,284 ] [ PARSER_XML ][ INFO ] Processing file number (032/222)
+[ 2025-07-09 13:14:03,552 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:14:03,553 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:15:28,185 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS1646_New-Doha-Port_10.6.16.181_20250603020502.xml.gz
+[ 2025-07-09 13:15:28,186 ] [ PARSER_XML ][ INFO ] Processing file number (033/222)
+[ 2025-07-09 13:15:28,342 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:15:28,343 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:16:15,138 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS1693_Messaeid_10.6.16.185_20250603020512.xml.gz
+[ 2025-07-09 13:16:15,139 ] [ PARSER_XML ][ INFO ] Processing file number (034/222)
+[ 2025-07-09 13:16:15,274 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:16:15,275 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:16:37,665 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS1694_Messaeid_10.6.16.189_20250603020512.xml.gz
+[ 2025-07-09 13:16:37,666 ] [ PARSER_XML ][ INFO ] Processing file number (035/222)
+[ 2025-07-09 13:16:37,805 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:16:37,805 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:17:06,176 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS1699_New-Doha-Port-03-Access_10.6.16.193_20250603020512.xml.gz
+[ 2025-07-09 13:17:06,177 ] [ PARSER_XML ][ INFO ] Processing file number (036/222)
+[ 2025-07-09 13:17:06,309 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:17:06,310 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:17:40,618 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS1724_Army-Camp_10.6.41.213_20250603022423.xml.gz
+[ 2025-07-09 13:17:40,619 ] [ PARSER_XML ][ INFO ] Processing file number (037/222)
+[ 2025-07-09 13:17:40,717 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:17:40,717 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:17:58,981 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS1730_China-Harbour_10.6.19.133_20250603020737.xml.gz
+[ 2025-07-09 13:17:58,983 ] [ PARSER_XML ][ INFO ] Processing file number (038/222)
+[ 2025-07-09 13:17:59,162 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:17:59,163 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:18:29,893 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS1765_Salwa-Beach-Resort_10.6.36.101_20250603021425.xml.gz
+[ 2025-07-09 13:18:29,894 ] [ PARSER_XML ][ INFO ] Processing file number (039/222)
+[ 2025-07-09 13:18:30,035 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:18:30,037 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:18:50,667 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS1766_Salwa-Beach-Resort-1_10.6.36.105_20250603021433.xml.gz
+[ 2025-07-09 13:18:50,668 ] [ PARSER_XML ][ INFO ] Processing file number (040/222)
+[ 2025-07-09 13:18:50,794 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:18:50,794 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:19:17,412 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS1767_Al-Wukair-Camp_10.6.31.41_20250603020357.xml.gz
+[ 2025-07-09 13:19:17,414 ] [ PARSER_XML ][ INFO ] Processing file number (041/222)
+[ 2025-07-09 13:19:17,691 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:19:17,692 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:20:09,078 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS1768_Barwa-Affordable-Housing-3_10.6.43.13_20250603022441.xml.gz
+[ 2025-07-09 13:20:09,079 ] [ PARSER_XML ][ INFO ] Processing file number (042/222)
+[ 2025-07-09 13:20:09,258 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:20:09,258 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:20:33,390 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS1956_Al-Nigyan_10.6.31.81_20250603020406.xml.gz
+[ 2025-07-09 13:20:33,392 ] [ PARSER_XML ][ INFO ] Processing file number (043/222)
+[ 2025-07-09 13:20:33,586 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:20:33,587 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:21:14,955 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS1959_SealineBeach2_10.6.32.109_20250603020503.xml.gz
+[ 2025-07-09 13:21:14,955 ] [ PARSER_XML ][ INFO ] Processing file number (044/222)
+[ 2025-07-09 13:21:15,065 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:21:15,065 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:21:38,679 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS1960_SealineCamps_10.6.43.17_20250603022523.xml.gz
+[ 2025-07-09 13:21:38,680 ] [ PARSER_XML ][ INFO ] Processing file number (045/222)
+[ 2025-07-09 13:21:38,887 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:21:38,888 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:22:20,830 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS2067_Berkat-Al-Awamer-6_10.6.31.73_20250603020345.xml.gz
+[ 2025-07-09 13:22:20,832 ] [ PARSER_XML ][ INFO ] Processing file number (046/222)
+[ 2025-07-09 13:22:20,946 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:22:20,946 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:22:52,923 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS2076_Nega-Bu-Birka-Camp_10.6.27.169_20250603022043.xml.gz
+[ 2025-07-09 13:22:52,925 ] [ PARSER_XML ][ INFO ] Processing file number (047/222)
+[ 2025-07-09 13:22:53,084 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:22:53,084 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:23:27,934 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS2091_SealineCamps7_10.6.25.69_20250603020542.xml.gz
+[ 2025-07-09 13:23:27,938 ] [ PARSER_XML ][ INFO ] Processing file number (048/222)
+[ 2025-07-09 13:23:28,099 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:23:28,099 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:23:54,034 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS2175_Umm-Al-Houl-Base2_10.6.27.41_20250603021904.xml.gz
+[ 2025-07-09 13:23:54,035 ] [ PARSER_XML ][ INFO ] Processing file number (049/222)
+[ 2025-07-09 13:23:54,160 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:23:54,161 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:24:20,805 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS2177_Umm-Al-Houl-Base3_10.6.27.45_20250603021930.xml.gz
+[ 2025-07-09 13:24:20,805 ] [ PARSER_XML ][ INFO ] Processing file number (050/222)
+[ 2025-07-09 13:24:20,963 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:24:20,964 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:24:45,714 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS2178_Umm-Al-Houl-Base1_10.6.27.49_20250603020847.xml.gz
+[ 2025-07-09 13:24:45,715 ] [ PARSER_XML ][ INFO ] Processing file number (051/222)
+[ 2025-07-09 13:24:45,881 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:24:45,881 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:25:18,981 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS2219_Messaid-Industrial_10.6.22.29_20250603021246.xml.gz
+[ 2025-07-09 13:25:18,982 ] [ PARSER_XML ][ INFO ] Processing file number (052/222)
+[ 2025-07-09 13:25:19,144 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:25:19,144 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:25:56,405 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS2228_Berkat-Al-Awamer-2_10.6.31.77_20250603020406.xml.gz
+[ 2025-07-09 13:25:56,406 ] [ PARSER_XML ][ INFO ] Processing file number (053/222)
+[ 2025-07-09 13:25:56,543 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:25:56,544 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:26:33,151 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS2322_Berkat-Al-Awamer-4_10.6.37.81_20250603021521.xml.gz
+[ 2025-07-09 13:26:33,152 ] [ PARSER_XML ][ INFO ] Processing file number (054/222)
+[ 2025-07-09 13:26:33,282 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:26:33,283 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:26:58,716 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS2323_Berkat-Al-Awamer-3_10.6.37.85_20250603021433.xml.gz
+[ 2025-07-09 13:26:58,717 ] [ PARSER_XML ][ INFO ] Processing file number (055/222)
+[ 2025-07-09 13:26:58,862 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:26:58,862 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:27:31,412 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS2329_Berkat-Al-Awamer-5_10.6.37.97_20250603021047.xml.gz
+[ 2025-07-09 13:27:31,412 ] [ PARSER_XML ][ INFO ] Processing file number (056/222)
+[ 2025-07-09 13:27:31,544 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:27:31,545 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:27:57,491 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS2483_Al-Wakra-Farm-1_10.6.20.249_20250603021848.xml.gz
+[ 2025-07-09 13:27:57,492 ] [ PARSER_XML ][ INFO ] Processing file number (057/222)
+[ 2025-07-09 13:27:57,614 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:27:57,614 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:28:26,611 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS2484_Al-Wakra-Farm-2_10.6.20.245_20250603020755.xml.gz
+[ 2025-07-09 13:28:26,612 ] [ PARSER_XML ][ INFO ] Processing file number (058/222)
+[ 2025-07-09 13:28:26,744 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:28:26,745 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:28:56,898 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS2699_SealineCamps2_10.6.23.21_20250603020150.xml.gz
+[ 2025-07-09 13:28:56,899 ] [ PARSER_XML ][ INFO ] Processing file number (059/222)
+[ 2025-07-09 13:28:57,020 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:28:57,021 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:29:17,670 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS2700_SealineCamps1_10.6.23.17_20250603021252.xml.gz
+[ 2025-07-09 13:29:17,671 ] [ PARSER_XML ][ INFO ] Processing file number (060/222)
+[ 2025-07-09 13:29:17,830 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:29:17,830 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:29:42,561 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS2804_Al-Bahar-Beach-Camp_10.6.27.37_20250603020752.xml.gz
+[ 2025-07-09 13:29:42,562 ] [ PARSER_XML ][ INFO ] Processing file number (061/222)
+[ 2025-07-09 13:29:42,667 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:29:42,668 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:30:11,080 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS2808_Desert-Safari_10.6.27.61_20250603021949.xml.gz
+[ 2025-07-09 13:30:11,081 ] [ PARSER_XML ][ INFO ] Processing file number (062/222)
+[ 2025-07-09 13:30:11,232 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:30:11,233 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:31:01,021 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS2950_Nekian-el-Rada_10.6.23.53_20250603020220.xml.gz
+[ 2025-07-09 13:31:01,022 ] [ PARSER_XML ][ INFO ] Processing file number (063/222)
+[ 2025-07-09 13:31:01,120 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:31:01,121 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:31:18,215 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS2951_Lakhfoos_10.6.23.57_20250603021250.xml.gz
+[ 2025-07-09 13:31:18,216 ] [ PARSER_XML ][ INFO ] Processing file number (064/222)
+[ 2025-07-09 13:31:18,344 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:31:18,346 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:31:37,245 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS2955_SealineCamps3_10.6.23.25_20250603021252.xml.gz
+[ 2025-07-09 13:31:37,248 ] [ PARSER_XML ][ INFO ] Processing file number (065/222)
+[ 2025-07-09 13:31:37,358 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:31:37,358 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:31:56,820 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS2956_SealineCamps4_10.6.23.29_20250603021302.xml.gz
+[ 2025-07-09 13:31:56,820 ] [ PARSER_XML ][ INFO ] Processing file number (066/222)
+[ 2025-07-09 13:31:56,944 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:31:56,945 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:32:17,003 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS2957_SealineCamps5_10.6.23.33_20250603020228.xml.gz
+[ 2025-07-09 13:32:17,004 ] [ PARSER_XML ][ INFO ] Processing file number (067/222)
+[ 2025-07-09 13:32:17,082 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:32:17,083 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:32:35,324 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS2958_SealineCamps5_10.6.24.253_20250603020358.xml.gz
+[ 2025-07-09 13:32:35,325 ] [ PARSER_XML ][ INFO ] Processing file number (068/222)
+[ 2025-07-09 13:32:35,417 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:32:35,417 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:32:53,745 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS2959_SealineCamps6_10.6.25.1_20250603021433.xml.gz
+[ 2025-07-09 13:32:53,745 ] [ PARSER_XML ][ INFO ] Processing file number (069/222)
+[ 2025-07-09 13:32:53,851 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:32:53,851 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:33:13,407 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS2994_Salwa-Beach-Resort-2_10.6.36.93_20250603021431.xml.gz
+[ 2025-07-09 13:33:13,408 ] [ PARSER_XML ][ INFO ] Processing file number (070/222)
+[ 2025-07-09 13:33:13,511 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:33:13,512 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:33:32,943 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_NOS2995_Salwa-Beach-Resort-3_10.6.36.97_20250603021332.xml.gz
+[ 2025-07-09 13:33:32,944 ] [ PARSER_XML ][ INFO ] Processing file number (071/222)
+[ 2025-07-09 13:33:33,043 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:33:33,044 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:34:00,351 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1309_West-Mufaid_10.234.18.153_20250603021004.xml.gz
+[ 2025-07-09 13:34:00,353 ] [ PARSER_XML ][ INFO ] Processing file number (072/222)
+[ 2025-07-09 13:34:00,982 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:34:00,982 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:35:00,308 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1312_Sauda-Nathil_10.234.18.133_20250603021651.xml.gz
+[ 2025-07-09 13:35:00,309 ] [ PARSER_XML ][ INFO ] Processing file number (073/222)
+[ 2025-07-09 13:35:00,533 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:35:00,533 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:35:42,466 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1313_Mufaid_10.234.18.157_20250603021004.xml.gz
+[ 2025-07-09 13:35:42,468 ] [ PARSER_XML ][ INFO ] Processing file number (074/222)
+[ 2025-07-09 13:35:43,153 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:35:43,154 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:36:30,644 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1316_Al-Ameriyah_10.234.18.125_20250603021651.xml.gz
+[ 2025-07-09 13:36:30,646 ] [ PARSER_XML ][ INFO ] Processing file number (075/222)
+[ 2025-07-09 13:36:31,200 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:36:31,201 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:37:17,491 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1320_Al-Karanah_10.234.18.105_20250603021651.xml.gz
+[ 2025-07-09 13:37:17,494 ] [ PARSER_XML ][ INFO ] Processing file number (076/222)
+[ 2025-07-09 13:37:17,985 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:37:17,985 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:38:05,641 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1324_Umm-Saeed-Rd_10.234.22.161_20250603023322.xml.gz
+[ 2025-07-09 13:38:05,644 ] [ PARSER_XML ][ INFO ] Processing file number (077/222)
+[ 2025-07-09 13:38:06,306 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:38:06,306 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:38:47,730 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1326_Jeryan-Al-Butna_10.234.18.89_20250603021651.xml.gz
+[ 2025-07-09 13:38:47,732 ] [ PARSER_XML ][ INFO ] Processing file number (078/222)
+[ 2025-07-09 13:38:48,225 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:38:48,226 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:39:39,412 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1327_Nakhsh_10.234.18.161_20250603021651.xml.gz
+[ 2025-07-09 13:39:39,413 ] [ PARSER_XML ][ INFO ] Processing file number (079/222)
+[ 2025-07-09 13:39:39,659 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:39:39,660 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:41:01,899 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1329_Umm-Owaina_10.234.18.85_20250603021651.xml.gz
+[ 2025-07-09 13:41:01,900 ] [ PARSER_XML ][ INFO ] Processing file number (080/222)
+[ 2025-07-09 13:41:02,216 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:41:02,216 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:41:46,447 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1330_Ain-Hamad_10.234.18.109_20250603021651.xml.gz
+[ 2025-07-09 13:41:46,448 ] [ PARSER_XML ][ INFO ] Processing file number (081/222)
+[ 2025-07-09 13:41:47,131 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:41:47,131 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:42:32,766 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1331_Abu-Samra_10.234.18.169_20250603021651.xml.gz
+[ 2025-07-09 13:42:32,768 ] [ PARSER_XML ][ INFO ] Processing file number (082/222)
+[ 2025-07-09 13:42:33,394 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:42:33,394 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:43:17,341 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1333_Ummsaid-North_10.234.22.225_20250603021004.xml.gz
+[ 2025-07-09 13:43:17,343 ] [ PARSER_XML ][ INFO ] Processing file number (083/222)
+[ 2025-07-09 13:43:18,010 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:43:18,011 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:44:01,296 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1334_Ummsaid-South_10.234.22.245_20250603021004.xml.gz
+[ 2025-07-09 13:44:01,298 ] [ PARSER_XML ][ INFO ] Processing file number (084/222)
+[ 2025-07-09 13:44:02,142 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:44:02,143 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:44:47,564 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1335_Shaqrah_10.234.23.25_20250603021004.xml.gz
+[ 2025-07-09 13:44:47,565 ] [ PARSER_XML ][ INFO ] Processing file number (085/222)
+[ 2025-07-09 13:44:47,856 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:44:47,856 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:45:34,493 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1336_Ummsaid-Market_10.234.23.97_20250603021004.xml.gz
+[ 2025-07-09 13:45:34,495 ] [ PARSER_XML ][ INFO ] Processing file number (086/222)
+[ 2025-07-09 13:45:34,961 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:45:34,962 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:46:22,565 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1337_UMI_10.234.22.241_20250603021004.xml.gz
+[ 2025-07-09 13:46:22,566 ] [ PARSER_XML ][ INFO ] Processing file number (087/222)
+[ 2025-07-09 13:46:23,039 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:46:23,040 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:47:12,443 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1338_MIC-QP-NGL_10.234.23.73_20250603020553.xml.gz
+[ 2025-07-09 13:47:12,446 ] [ PARSER_XML ][ INFO ] Processing file number (088/222)
+[ 2025-07-09 13:47:12,870 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:47:12,871 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:47:41,051 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1340_South-Udaid_10.234.23.61_20250603021004.xml.gz
+[ 2025-07-09 13:47:41,056 ] [ PARSER_XML ][ INFO ] Processing file number (089/222)
+[ 2025-07-09 13:47:41,741 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:47:41,742 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:48:08,233 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1341_Sauda-Nathil-South_10.234.18.129_20250603021651.xml.gz
+[ 2025-07-09 13:48:08,235 ] [ PARSER_XML ][ INFO ] Processing file number (090/222)
+[ 2025-07-09 13:48:08,519 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:48:08,520 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:48:32,594 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1343_Triana-Garden_10.234.18.145_20250603021004.xml.gz
+[ 2025-07-09 13:48:32,596 ] [ PARSER_XML ][ INFO ] Processing file number (091/222)
+[ 2025-07-09 13:48:32,848 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:48:32,848 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:48:56,994 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1344_Alkherkhara_10.234.18.93_20250603021651.xml.gz
+[ 2025-07-09 13:48:56,995 ] [ PARSER_XML ][ INFO ] Processing file number (092/222)
+[ 2025-07-09 13:48:57,381 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:48:57,382 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:49:21,256 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1346_Sealine-Beach_10.234.23.77_20250603021004.xml.gz
+[ 2025-07-09 13:49:21,257 ] [ PARSER_XML ][ INFO ] Processing file number (093/222)
+[ 2025-07-09 13:49:21,537 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:49:21,537 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:49:49,774 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1350_Qatar-Steel-Mesaieed_10.234.22.249_20250603022231.xml.gz
+[ 2025-07-09 13:49:49,776 ] [ PARSER_XML ][ INFO ] Processing file number (094/222)
+[ 2025-07-09 13:49:50,399 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:49:50,400 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:50:19,008 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1353_Umm-Said-East_10.234.22.229_20250603021004.xml.gz
+[ 2025-07-09 13:50:19,010 ] [ PARSER_XML ][ INFO ] Processing file number (095/222)
+[ 2025-07-09 13:50:19,632 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:50:19,632 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:50:46,796 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1364_AlKhararaRoad_10.234.29.37_20250603021651.xml.gz
+[ 2025-07-09 13:50:46,798 ] [ PARSER_XML ][ INFO ] Processing file number (096/222)
+[ 2025-07-09 13:50:47,278 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:50:47,279 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:51:09,956 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1366_Salwa-Rd-B_10.234.18.121_20250603021651.xml.gz
+[ 2025-07-09 13:51:09,958 ] [ PARSER_XML ][ INFO ] Processing file number (097/222)
+[ 2025-07-09 13:51:10,328 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:51:10,328 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:51:36,623 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1367_Salwa-Rd-A_10.234.18.101_20250603021651.xml.gz
+[ 2025-07-09 13:51:36,624 ] [ PARSER_XML ][ INFO ] Processing file number (098/222)
+[ 2025-07-09 13:51:37,057 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:51:37,057 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:52:05,764 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1380_Khoraludaid-I_10.234.18.141_20250603021651.xml.gz
+[ 2025-07-09 13:52:05,765 ] [ PARSER_XML ][ INFO ] Processing file number (099/222)
+[ 2025-07-09 13:52:06,050 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:52:06,051 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:52:27,010 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1381_Eleraiq_10.234.18.165_20250603021651.xml.gz
+[ 2025-07-09 13:52:27,011 ] [ PARSER_XML ][ INFO ] Processing file number (100/222)
+[ 2025-07-09 13:52:27,225 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:52:27,225 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:52:48,418 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1391_Al-Wakra-South-RD_10.234.24.153_20250603021704.xml.gz
+[ 2025-07-09 13:52:48,420 ] [ PARSER_XML ][ INFO ] Processing file number (101/222)
+[ 2025-07-09 13:52:49,136 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:52:49,136 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:53:10,477 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1396_Qatalum-Village-South_10.234.10.149_20250603021654.xml.gz
+[ 2025-07-09 13:53:10,479 ] [ PARSER_XML ][ INFO ] Processing file number (102/222)
+[ 2025-07-09 13:53:11,097 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:53:11,098 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:53:34,193 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1413_New-Doha-Port-01_10.234.23.129_20250603020417.xml.gz
+[ 2025-07-09 13:53:34,194 ] [ PARSER_XML ][ INFO ] Processing file number (103/222)
+[ 2025-07-09 13:53:34,699 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:53:34,700 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:53:59,214 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1426_Um-Saeed-Factory_10.234.23.81_20250603021004.xml.gz
+[ 2025-07-09 13:53:59,215 ] [ PARSER_XML ][ INFO ] Processing file number (104/222)
+[ 2025-07-09 13:53:59,848 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:53:59,850 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:54:26,582 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1427_I-Geo_10.234.23.33_20250603021004.xml.gz
+[ 2025-07-09 13:54:26,585 ] [ PARSER_XML ][ INFO ] Processing file number (105/222)
+[ 2025-07-09 13:54:26,856 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:54:26,856 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:54:54,328 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1428_ii-Geo_10.234.23.9_20250603021004.xml.gz
+[ 2025-07-09 13:54:54,330 ] [ PARSER_XML ][ INFO ] Processing file number (106/222)
+[ 2025-07-09 13:54:54,815 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:54:54,816 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:55:18,203 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1430_KhorAlUdaid2_10.234.23.13_20250603021411.xml.gz
+[ 2025-07-09 13:55:18,204 ] [ PARSER_XML ][ INFO ] Processing file number (107/222)
+[ 2025-07-09 13:55:18,400 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:55:18,400 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:55:41,356 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1434_VII-Geo_10.234.23.5_20250603021004.xml.gz
+[ 2025-07-09 13:55:41,358 ] [ PARSER_XML ][ INFO ] Processing file number (108/222)
+[ 2025-07-09 13:55:41,599 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:55:41,600 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:56:05,533 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1435_Khoraludaid-ii_10.234.23.17_20250603021004.xml.gz
+[ 2025-07-09 13:56:05,534 ] [ PARSER_XML ][ INFO ] Processing file number (109/222)
+[ 2025-07-09 13:56:05,809 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:56:05,809 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:56:28,250 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1436_VIII-Geo_10.234.18.137_20250603021651.xml.gz
+[ 2025-07-09 13:56:28,251 ] [ PARSER_XML ][ INFO ] Processing file number (110/222)
+[ 2025-07-09 13:56:28,532 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:56:28,532 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:56:54,989 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1452_Berkat-Al-Awamer_10.234.24.157_20250603021714.xml.gz
+[ 2025-07-09 13:56:54,992 ] [ PARSER_XML ][ INFO ] Processing file number (111/222)
+[ 2025-07-09 13:56:55,576 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:56:55,576 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:57:22,615 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1468_Umm-Said-Housing_10.234.22.213_20250603021004.xml.gz
+[ 2025-07-09 13:57:22,618 ] [ PARSER_XML ][ INFO ] Processing file number (112/222)
+[ 2025-07-09 13:57:23,468 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:57:23,469 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:57:46,017 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1492_Camp-SD_10.234.28.213_20250603022123.xml.gz
+[ 2025-07-09 13:57:46,021 ] [ PARSER_XML ][ INFO ] Processing file number (113/222)
+[ 2025-07-09 13:57:46,760 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:57:46,761 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:58:12,221 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1493_QAFCO_10.234.22.253_20250603020615.xml.gz
+[ 2025-07-09 13:58:12,223 ] [ PARSER_XML ][ INFO ] Processing file number (114/222)
+[ 2025-07-09 13:58:12,733 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:58:12,734 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:58:38,914 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1536_Al-Wukeer_10.234.23.57_20250603020854.xml.gz
+[ 2025-07-09 13:58:38,916 ] [ PARSER_XML ][ INFO ] Processing file number (115/222)
+[ 2025-07-09 13:58:39,678 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:58:39,679 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:59:06,858 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1537_Al-Mbeerik_10.234.16.217_20250603020854.xml.gz
+[ 2025-07-09 13:59:06,860 ] [ PARSER_XML ][ INFO ] Processing file number (116/222)
+[ 2025-07-09 13:59:07,461 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:59:07,462 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:59:32,943 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1538_Al-Kherkhara_10.234.18.193_20250603021651.xml.gz
+[ 2025-07-09 13:59:32,945 ] [ PARSER_XML ][ INFO ] Processing file number (117/222)
+[ 2025-07-09 13:59:33,752 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:59:33,753 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 13:59:58,484 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1539_Qchem_10.234.23.41_20250603020715.xml.gz
+[ 2025-07-09 13:59:58,487 ] [ PARSER_XML ][ INFO ] Processing file number (118/222)
+[ 2025-07-09 13:59:59,007 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 13:59:59,008 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:00:22,228 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1541_Al-Wakrah-Desert-3_10.234.18.149_20250603021004.xml.gz
+[ 2025-07-09 14:00:22,231 ] [ PARSER_XML ][ INFO ] Processing file number (119/222)
+[ 2025-07-09 14:00:22,864 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:00:22,864 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:00:47,113 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1553_Us-Air-Base_10.234.17.233_20250603021651.xml.gz
+[ 2025-07-09 14:00:47,115 ] [ PARSER_XML ][ INFO ] Processing file number (120/222)
+[ 2025-07-09 14:00:48,016 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:00:48,017 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:01:11,460 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1554_Umm-Saeed-Rd-I_10.234.22.221_20250603021004.xml.gz
+[ 2025-07-09 14:01:11,462 ] [ PARSER_XML ][ INFO ] Processing file number (121/222)
+[ 2025-07-09 14:01:12,093 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:01:12,093 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:01:35,170 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1555_Al-Wakrah-Desert-2_10.234.23.37_20250603021004.xml.gz
+[ 2025-07-09 14:01:35,172 ] [ PARSER_XML ][ INFO ] Processing file number (122/222)
+[ 2025-07-09 14:01:35,595 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:01:35,596 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:01:58,420 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1556_Wakrah-South-Desert_10.234.23.21_20250603021004.xml.gz
+[ 2025-07-09 14:01:58,422 ] [ PARSER_XML ][ INFO ] Processing file number (123/222)
+[ 2025-07-09 14:01:58,796 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:01:58,797 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:02:20,798 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1557_KhorAludaid1_10.234.23.93_20250603021651.xml.gz
+[ 2025-07-09 14:02:20,799 ] [ PARSER_XML ][ INFO ] Processing file number (124/222)
+[ 2025-07-09 14:02:20,990 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:02:20,991 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:02:43,565 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1558_Al-Wakrah-Desert_10.234.23.29_20250603021004.xml.gz
+[ 2025-07-09 14:02:43,566 ] [ PARSER_XML ][ INFO ] Processing file number (125/222)
+[ 2025-07-09 14:02:44,105 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:02:44,105 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:03:06,631 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1559_Umm-Houta_10.234.18.113_20250603021651.xml.gz
+[ 2025-07-09 14:03:06,633 ] [ PARSER_XML ][ INFO ] Processing file number (126/222)
+[ 2025-07-09 14:03:07,302 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:03:07,303 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:03:29,755 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1577_New-Doha-Port-02-Customs_10.234.23.125_20250603020417.xml.gz
+[ 2025-07-09 14:03:29,757 ] [ PARSER_XML ][ INFO ] Processing file number (127/222)
+[ 2025-07-09 14:03:30,441 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:03:30,441 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:03:52,972 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1581_Mesaieed-Industrial-City_10.234.23.69_20250603021004.xml.gz
+[ 2025-07-09 14:03:52,974 ] [ PARSER_XML ][ INFO ] Processing file number (128/222)
+[ 2025-07-09 14:03:53,498 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:03:53,498 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:04:16,261 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1625_Qatalum-Village_10.234.22.233_20250603021004.xml.gz
+[ 2025-07-09 14:04:16,266 ] [ PARSER_XML ][ INFO ] Processing file number (129/222)
+[ 2025-07-09 14:04:17,577 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:04:17,577 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:04:50,691 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1626_Al-Kharrara-South_10.234.22.201_20250603021004.xml.gz
+[ 2025-07-09 14:04:50,695 ] [ PARSER_XML ][ INFO ] Processing file number (130/222)
+[ 2025-07-09 14:04:51,422 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:04:51,422 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:05:19,102 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1646_New-Doha-Port_10.234.22.217_20250603023322.xml.gz
+[ 2025-07-09 14:05:19,105 ] [ PARSER_XML ][ INFO ] Processing file number (131/222)
+[ 2025-07-09 14:05:19,663 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:05:19,665 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:06:29,636 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1692_Qatalum-Mesaid_10.234.23.89_20250603022010.xml.gz
+[ 2025-07-09 14:06:29,637 ] [ PARSER_XML ][ INFO ] Processing file number (132/222)
+[ 2025-07-09 14:06:30,001 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:06:30,001 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:07:00,638 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1693_Messaeid_10.234.22.205_20250603021004.xml.gz
+[ 2025-07-09 14:07:00,641 ] [ PARSER_XML ][ INFO ] Processing file number (133/222)
+[ 2025-07-09 14:07:01,173 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:07:01,173 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:07:26,706 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1694_Messaeid_10.234.22.197_20250603021004.xml.gz
+[ 2025-07-09 14:07:26,709 ] [ PARSER_XML ][ INFO ] Processing file number (134/222)
+[ 2025-07-09 14:07:27,152 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:07:27,152 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:07:52,934 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1699_New-Doha-Port-03-Access_10.234.23.121_20250603020417.xml.gz
+[ 2025-07-09 14:07:52,937 ] [ PARSER_XML ][ INFO ] Processing file number (135/222)
+[ 2025-07-09 14:07:53,582 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:07:53,583 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:08:18,435 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1724_Army-Camp_10.234.29.233_20250603021352.xml.gz
+[ 2025-07-09 14:08:18,436 ] [ PARSER_XML ][ INFO ] Processing file number (136/222)
+[ 2025-07-09 14:08:18,747 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:08:18,748 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:08:39,088 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1730_China-Harbour_10.234.22.237_20250603020145.xml.gz
+[ 2025-07-09 14:08:39,090 ] [ PARSER_XML ][ INFO ] Processing file number (137/222)
+[ 2025-07-09 14:08:39,688 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:08:39,689 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:09:07,039 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1765_Salwa-Beach-Resort_10.234.26.133_20250603020000.xml.gz
+[ 2025-07-09 14:09:07,041 ] [ PARSER_XML ][ INFO ] Processing file number (138/222)
+[ 2025-07-09 14:09:07,491 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:09:07,491 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:09:33,092 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1766_Salwa-Beach-Resort-1_10.234.26.137_20250603021122.xml.gz
+[ 2025-07-09 14:09:33,093 ] [ PARSER_XML ][ INFO ] Processing file number (139/222)
+[ 2025-07-09 14:09:33,500 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:09:33,500 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:09:59,348 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1767_Al-Wukair-Camp_10.234.23.65_20250603020854.xml.gz
+[ 2025-07-09 14:09:59,350 ] [ PARSER_XML ][ INFO ] Processing file number (140/222)
+[ 2025-07-09 14:10:00,262 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:10:00,262 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:10:25,565 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1768_Barwa-Affordable-Housing-3_10.234.24.229_20250603021616.xml.gz
+[ 2025-07-09 14:10:25,567 ] [ PARSER_XML ][ INFO ] Processing file number (141/222)
+[ 2025-07-09 14:10:26,184 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:10:26,185 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:10:51,616 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1791_UdaidBase1_10.234.1.74_20250603022107.xml.gz
+[ 2025-07-09 14:10:51,618 ] [ PARSER_XML ][ INFO ] Processing file number (142/222)
+[ 2025-07-09 14:10:52,275 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:10:52,275 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:11:17,095 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1792_UdaidBase2_10.234.4.122_20250603020201.xml.gz
+[ 2025-07-09 14:11:17,097 ] [ PARSER_XML ][ INFO ] Processing file number (143/222)
+[ 2025-07-09 14:11:17,691 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:11:17,691 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:11:44,311 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1930_New-Doha-Port-04_10.234.23.209_20250603020652.xml.gz
+[ 2025-07-09 14:11:44,314 ] [ PARSER_XML ][ INFO ] Processing file number (144/222)
+[ 2025-07-09 14:11:44,782 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:11:44,783 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:12:12,236 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1931_New-Doha-Port-05_10.234.23.213_20250603020652.xml.gz
+[ 2025-07-09 14:12:12,238 ] [ PARSER_XML ][ INFO ] Processing file number (145/222)
+[ 2025-07-09 14:12:12,660 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:12:12,660 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:12:38,928 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1932_New-Doha-Port-06_10.234.23.217_20250603020652.xml.gz
+[ 2025-07-09 14:12:38,930 ] [ PARSER_XML ][ INFO ] Processing file number (146/222)
+[ 2025-07-09 14:12:39,484 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:12:39,485 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:13:04,597 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1956_Al-Nigyan_10.234.10.5_20250603020230.xml.gz
+[ 2025-07-09 14:13:04,600 ] [ PARSER_XML ][ INFO ] Processing file number (147/222)
+[ 2025-07-09 14:13:05,215 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:13:05,215 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:13:35,356 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1959_SealineBeach2_10.234.23.85_20250603021411.xml.gz
+[ 2025-07-09 14:13:35,359 ] [ PARSER_XML ][ INFO ] Processing file number (148/222)
+[ 2025-07-09 14:13:35,853 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:13:35,854 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:14:01,552 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1960_SealineCamps_10.234.23.1_20250603021651.xml.gz
+[ 2025-07-09 14:14:01,553 ] [ PARSER_XML ][ INFO ] Processing file number (149/222)
+[ 2025-07-09 14:14:01,871 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:14:01,872 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:14:27,067 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS1993_VVIP-Ceremony_10.234.23.105_20250603022152.xml.gz
+[ 2025-07-09 14:14:27,069 ] [ PARSER_XML ][ INFO ] Processing file number (150/222)
+[ 2025-07-09 14:14:27,595 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:14:27,595 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:14:53,205 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS2000_Mekanies-PS-HW_10.234.7.205_20250603020441.xml.gz
+[ 2025-07-09 14:14:53,208 ] [ PARSER_XML ][ INFO ] Processing file number (151/222)
+[ 2025-07-09 14:14:54,293 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:14:54,294 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:15:33,908 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS2022_Barwa-Al-Janoub-02_10.234.9.129_20250603020747.xml.gz
+[ 2025-07-09 14:15:33,912 ] [ PARSER_XML ][ INFO ] Processing file number (152/222)
+[ 2025-07-09 14:15:34,716 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:15:34,716 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:16:05,488 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS2023_Barwa-Al-Janoub-05_10.234.9.133_20250603020319.xml.gz
+[ 2025-07-09 14:16:05,492 ] [ PARSER_XML ][ INFO ] Processing file number (153/222)
+[ 2025-07-09 14:16:06,820 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:16:06,820 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:16:39,732 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS2024_Barwa-Al-Janoub-04_10.134.29.157_20250603020232.xml.gz
+[ 2025-07-09 14:16:39,737 ] [ PARSER_XML ][ INFO ] Processing file number (154/222)
+[ 2025-07-09 14:16:40,621 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:16:40,622 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:17:09,825 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS2025_Barwa-Al-Janoub-01_10.134.29.145_20250603020251.xml.gz
+[ 2025-07-09 14:17:09,826 ] [ PARSER_XML ][ INFO ] Processing file number (155/222)
+[ 2025-07-09 14:17:10,890 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:17:10,890 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:17:43,610 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS2026_Barwa-Al-Janoub-03_10.134.29.149_20250603020232.xml.gz
+[ 2025-07-09 14:17:43,613 ] [ PARSER_XML ][ INFO ] Processing file number (156/222)
+[ 2025-07-09 14:17:45,021 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:17:45,021 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:18:17,283 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS2067_Berkat-Al-Awamer-6_10.234.10.157_20250603021921.xml.gz
+[ 2025-07-09 14:18:17,286 ] [ PARSER_XML ][ INFO ] Processing file number (157/222)
+[ 2025-07-09 14:18:18,198 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:18:18,199 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:18:46,542 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS2076_Nega-Bu-Birka-Camp_10.234.10.221_20250603020852.xml.gz
+[ 2025-07-09 14:18:46,543 ] [ PARSER_XML ][ INFO ] Processing file number (158/222)
+[ 2025-07-09 14:18:47,147 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:18:47,148 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:19:14,385 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS2091_SealineCamps7_10.234.10.65_20250603020601.xml.gz
+[ 2025-07-09 14:19:14,386 ] [ PARSER_XML ][ INFO ] Processing file number (159/222)
+[ 2025-07-09 14:19:14,707 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:19:14,708 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:19:46,272 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS2094_Salwa-Beach-Resort-5_10.234.33.241_20250603022130.xml.gz
+[ 2025-07-09 14:19:46,275 ] [ PARSER_XML ][ INFO ] Processing file number (160/222)
+[ 2025-07-09 14:19:47,225 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:19:47,225 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:20:19,836 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS2114_JerianElBatn-SA-Border_10.134.40.93_20250603022223.xml.gz
+[ 2025-07-09 14:20:19,837 ] [ PARSER_XML ][ INFO ] Processing file number (161/222)
+[ 2025-07-09 14:20:20,340 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:20:20,341 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:20:51,014 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS2175_Umm-Al-Houl-Base2_10.234.10.169_20250603020754.xml.gz
+[ 2025-07-09 14:20:51,016 ] [ PARSER_XML ][ INFO ] Processing file number (162/222)
+[ 2025-07-09 14:20:51,468 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:20:51,469 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:21:20,209 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS2177_Umm-Al-Houl-Base3_10.234.10.173_20250603021906.xml.gz
+[ 2025-07-09 14:21:20,210 ] [ PARSER_XML ][ INFO ] Processing file number (163/222)
+[ 2025-07-09 14:21:20,534 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:21:20,534 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:21:46,458 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS2178_Umm-Al-Houl-Base1_10.234.10.177_20250603021939.xml.gz
+[ 2025-07-09 14:21:46,460 ] [ PARSER_XML ][ INFO ] Processing file number (164/222)
+[ 2025-07-09 14:21:47,004 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:21:47,004 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:22:12,672 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS2219_Messaid-Industrial_10.234.24.169_20250603020144.xml.gz
+[ 2025-07-09 14:22:12,674 ] [ PARSER_XML ][ INFO ] Processing file number (165/222)
+[ 2025-07-09 14:22:13,255 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:22:13,255 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:22:39,360 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS2223_Umm-Owaina-2_10.234.26.129_20250603021137.xml.gz
+[ 2025-07-09 14:22:39,361 ] [ PARSER_XML ][ INFO ] Processing file number (166/222)
+[ 2025-07-09 14:22:39,613 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:22:39,614 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:23:09,301 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS2228_Berkat-Al-Awamer-2_10.234.24.165_20250603020144.xml.gz
+[ 2025-07-09 14:23:09,310 ] [ PARSER_XML ][ INFO ] Processing file number (167/222)
+[ 2025-07-09 14:23:10,747 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:23:10,748 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:23:40,122 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS2320_Birkat-Al-Awamer-North_10.134.40.25_20250603021647.xml.gz
+[ 2025-07-09 14:23:40,126 ] [ PARSER_XML ][ INFO ] Processing file number (168/222)
+[ 2025-07-09 14:23:41,793 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:23:41,793 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:24:18,059 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS2321_Al-Rakb-Street-58_10.234.32.181_20250603021833.xml.gz
+[ 2025-07-09 14:24:18,062 ] [ PARSER_XML ][ INFO ] Processing file number (169/222)
+[ 2025-07-09 14:24:19,244 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:24:19,245 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:24:50,928 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS2322_Berkat-Al-Awamer-4_10.234.24.181_20250603020158.xml.gz
+[ 2025-07-09 14:24:50,931 ] [ PARSER_XML ][ INFO ] Processing file number (170/222)
+[ 2025-07-09 14:24:51,756 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:24:51,756 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:25:16,610 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS2323_Berkat-Al-Awamer-3_10.234.24.173_20250603022002.xml.gz
+[ 2025-07-09 14:25:16,612 ] [ PARSER_XML ][ INFO ] Processing file number (171/222)
+[ 2025-07-09 14:25:17,557 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:25:17,558 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:25:41,614 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS2326_Berkat-Al-Awamer-7_10.234.31.49_20250603021055.xml.gz
+[ 2025-07-09 14:25:41,616 ] [ PARSER_XML ][ INFO ] Processing file number (172/222)
+[ 2025-07-09 14:25:42,733 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:25:42,733 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:26:10,505 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS2328_Berkat-Al-Awamer-8_10.234.31.53_20250603021447.xml.gz
+[ 2025-07-09 14:26:10,509 ] [ PARSER_XML ][ INFO ] Processing file number (173/222)
+[ 2025-07-09 14:26:11,405 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:26:11,406 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:26:39,893 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS2329_Berkat-Al-Awamer-5_10.234.10.41_20250603021514.xml.gz
+[ 2025-07-09 14:26:39,896 ] [ PARSER_XML ][ INFO ] Processing file number (174/222)
+[ 2025-07-09 14:26:40,593 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:26:40,593 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:27:09,336 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS2483_Al-Wakra-Farm-1_10.234.24.109_20250603021453.xml.gz
+[ 2025-07-09 14:27:09,339 ] [ PARSER_XML ][ INFO ] Processing file number (175/222)
+[ 2025-07-09 14:27:10,115 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:27:10,115 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:27:34,473 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS2484_Al-Wakra-Farm-2_10.234.24.105_20250603021453.xml.gz
+[ 2025-07-09 14:27:34,478 ] [ PARSER_XML ][ INFO ] Processing file number (176/222)
+[ 2025-07-09 14:27:35,252 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:27:35,252 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:27:59,914 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS2512_MOD-Lekhfoos-Camps_10.234.33.213_20250603021458.xml.gz
+[ 2025-07-09 14:27:59,916 ] [ PARSER_XML ][ INFO ] Processing file number (177/222)
+[ 2025-07-09 14:28:00,312 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:28:00,313 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:28:31,287 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS2691_Barwa-Affordable-Housing-1_10.234.24.233_20250603021716.xml.gz
+[ 2025-07-09 14:28:31,289 ] [ PARSER_XML ][ INFO ] Processing file number (178/222)
+[ 2025-07-09 14:28:32,181 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:28:32,181 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:29:01,851 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS2692_Barwa-Affordable-Housing-2_10.234.24.237_20250603021325.xml.gz
+[ 2025-07-09 14:29:01,854 ] [ PARSER_XML ][ INFO ] Processing file number (179/222)
+[ 2025-07-09 14:29:02,653 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:29:02,653 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:29:33,627 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS2693_Barwa-Affrodable-Housing_10.234.29.221_20250603021750.xml.gz
+[ 2025-07-09 14:29:33,631 ] [ PARSER_XML ][ INFO ] Processing file number (180/222)
+[ 2025-07-09 14:29:34,542 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:29:34,543 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:30:18,353 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS2694_Barwa-Affordable-Housing-4_10.234.24.241_20250603021616.xml.gz
+[ 2025-07-09 14:30:18,354 ] [ PARSER_XML ][ INFO ] Processing file number (181/222)
+[ 2025-07-09 14:30:19,283 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:30:19,284 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:30:46,896 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS2699_SealineCamps2_10.234.10.13_20250603020214.xml.gz
+[ 2025-07-09 14:30:46,908 ] [ PARSER_XML ][ INFO ] Processing file number (182/222)
+[ 2025-07-09 14:30:47,493 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:30:47,494 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:31:14,733 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS2700_SealineCamps1_10.234.10.9_20250603021236.xml.gz
+[ 2025-07-09 14:31:14,787 ] [ PARSER_XML ][ INFO ] Processing file number (183/222)
+[ 2025-07-09 14:31:15,412 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:31:15,456 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:31:41,864 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS2758_Mekanies-West_10.234.33.101_20250603021128.xml.gz
+[ 2025-07-09 14:31:41,866 ] [ PARSER_XML ][ INFO ] Processing file number (184/222)
+[ 2025-07-09 14:31:42,293 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:31:42,293 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:32:16,996 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS2803_Mekaines-Camp_10.234.7.185_20250603020207.xml.gz
+[ 2025-07-09 14:32:16,998 ] [ PARSER_XML ][ INFO ] Processing file number (185/222)
+[ 2025-07-09 14:32:17,763 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:32:17,763 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:32:48,982 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS2804_Al-Bahar-Beach-Camp_10.234.10.165_20250603021858.xml.gz
+[ 2025-07-09 14:32:48,985 ] [ PARSER_XML ][ INFO ] Processing file number (186/222)
+[ 2025-07-09 14:32:49,519 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:32:49,519 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:33:15,162 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS2805_Negyan-Messaid-Hwy_10.234.10.225_20250603021029.xml.gz
+[ 2025-07-09 14:33:15,164 ] [ PARSER_XML ][ INFO ] Processing file number (187/222)
+[ 2025-07-09 14:33:16,013 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:33:16,015 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:34:06,961 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS2808_Desert-Safari_10.234.10.181_20250603020914.xml.gz
+[ 2025-07-09 14:34:06,963 ] [ PARSER_XML ][ INFO ] Processing file number (188/222)
+[ 2025-07-09 14:34:07,427 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:34:07,428 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:34:48,489 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS2875_SalwaRd-Mekaines_10.234.33.85_20250603021418.xml.gz
+[ 2025-07-09 14:34:48,492 ] [ PARSER_XML ][ INFO ] Processing file number (189/222)
+[ 2025-07-09 14:34:49,656 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:34:49,657 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:35:28,114 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS2941_Birkat-Al-Awamer-GWC_10.134.40.17_20250603021647.xml.gz
+[ 2025-07-09 14:35:28,116 ] [ PARSER_XML ][ INFO ] Processing file number (190/222)
+[ 2025-07-09 14:35:28,939 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:35:28,940 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:36:04,810 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS2950_Nekian-el-Rada_10.234.26.181_20250603021255.xml.gz
+[ 2025-07-09 14:36:04,813 ] [ PARSER_XML ][ INFO ] Processing file number (191/222)
+[ 2025-07-09 14:36:05,472 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:36:05,472 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:36:53,337 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS2951_Lakhfoos_10.234.26.185_20250603020153.xml.gz
+[ 2025-07-09 14:36:53,337 ] [ PARSER_XML ][ INFO ] Processing file number (192/222)
+[ 2025-07-09 14:36:54,598 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:36:54,598 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:37:37,810 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS2955_SealineCamps3_10.234.10.17_20250603021236.xml.gz
+[ 2025-07-09 14:37:37,810 ] [ PARSER_XML ][ INFO ] Processing file number (193/222)
+[ 2025-07-09 14:37:38,552 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:37:38,552 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:38:21,556 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS2956_SealineCamps4_10.234.10.21_20250603021255.xml.gz
+[ 2025-07-09 14:38:21,558 ] [ PARSER_XML ][ INFO ] Processing file number (194/222)
+[ 2025-07-09 14:38:21,899 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:38:21,900 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:38:46,471 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS2957_SealineCamps5_10.234.10.25_20250603020222.xml.gz
+[ 2025-07-09 14:38:46,473 ] [ PARSER_XML ][ INFO ] Processing file number (195/222)
+[ 2025-07-09 14:38:46,783 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:38:46,784 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:39:09,015 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS2958_SealineCamps5_10.234.10.33_20250603022920.xml.gz
+[ 2025-07-09 14:39:09,016 ] [ PARSER_XML ][ INFO ] Processing file number (196/222)
+[ 2025-07-09 14:39:09,431 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:39:09,432 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:39:35,677 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS2959_SealineCamps6_10.234.10.37_20250603022920.xml.gz
+[ 2025-07-09 14:39:35,678 ] [ PARSER_XML ][ INFO ] Processing file number (197/222)
+[ 2025-07-09 14:39:35,957 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:39:35,958 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:39:58,995 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS2989_Messaed-Hospital_10.234.10.1_20250603021137.xml.gz
+[ 2025-07-09 14:39:58,998 ] [ PARSER_XML ][ INFO ] Processing file number (198/222)
+[ 2025-07-09 14:39:59,904 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:39:59,905 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:40:29,749 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS2994_Salwa-Beach-Resort-2_10.234.26.145_20250603021135.xml.gz
+[ 2025-07-09 14:40:29,751 ] [ PARSER_XML ][ INFO ] Processing file number (199/222)
+[ 2025-07-09 14:40:30,392 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:40:30,393 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:40:54,264 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS2995_Salwa-Beach-Resort-3_10.234.26.141_20250603020008.xml.gz
+[ 2025-07-09 14:40:54,266 ] [ PARSER_XML ][ INFO ] Processing file number (200/222)
+[ 2025-07-09 14:40:54,908 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:40:54,909 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:41:19,661 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS3202_UdaidBase-Al-Zaeem-Md-Ac_10.234.33.229_20250603021603.xml.gz
+[ 2025-07-09 14:41:19,664 ] [ PARSER_XML ][ INFO ] Processing file number (201/222)
+[ 2025-07-09 14:41:20,401 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:41:20,402 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:41:51,201 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS3282_UdaidBase-SouthGate-QTI_10.134.40.29_20250603022331.xml.gz
+[ 2025-07-09 14:41:51,203 ] [ PARSER_XML ][ INFO ] Processing file number (202/222)
+[ 2025-07-09 14:41:52,055 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:41:52,055 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:42:30,808 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS3359_JerianElBatn-Hist-Well_10.134.40.149_20250603022203.xml.gz
+[ 2025-07-09 14:42:30,810 ] [ PARSER_XML ][ INFO ] Processing file number (203/222)
+[ 2025-07-09 14:42:31,513 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:42:31,513 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:43:02,539 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS3483_Sealine-Marmi-Falcon_10.134.40.105_20250603021726.xml.gz
+[ 2025-07-09 14:43:02,542 ] [ PARSER_XML ][ INFO ] Processing file number (204/222)
+[ 2025-07-09 14:43:03,253 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:43:03,254 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:43:34,695 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS3484_Jerianbatn-Karaana-2_10.134.9.209_20250603022100.xml.gz
+[ 2025-07-09 14:43:34,699 ] [ PARSER_XML ][ INFO ] Processing file number (205/222)
+[ 2025-07-09 14:43:35,824 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:43:35,825 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:44:08,357 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS3513_JerianElBatn-Al-Kharrara_10.234.33.245_20250603022342.xml.gz
+[ 2025-07-09 14:44:08,359 ] [ PARSER_XML ][ INFO ] Processing file number (206/222)
+[ 2025-07-09 14:44:09,202 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:44:09,202 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:44:39,075 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS3552_AbuSamra-MOI-Office_10.234.33.69_20250603021335.xml.gz
+[ 2025-07-09 14:44:39,078 ] [ PARSER_XML ][ INFO ] Processing file number (207/222)
+[ 2025-07-09 14:44:39,848 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:44:39,848 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:45:12,205 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS3553_AbuSamra-MOI-Accom_10.234.33.73_20250603020923.xml.gz
+[ 2025-07-09 14:45:12,209 ] [ PARSER_XML ][ INFO ] Processing file number (208/222)
+[ 2025-07-09 14:45:13,762 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:45:13,769 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:45:49,793 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS3632_Berkat-Al-Awamer-10_10.234.31.93_20250603021609.xml.gz
+[ 2025-07-09 14:45:49,796 ] [ PARSER_XML ][ INFO ] Processing file number (209/222)
+[ 2025-07-09 14:45:50,799 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:45:50,799 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:46:20,800 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS3637_Outpost-Al-Barari_10.234.32.145_20250603021055.xml.gz
+[ 2025-07-09 14:46:20,802 ] [ PARSER_XML ][ INFO ] Processing file number (210/222)
+[ 2025-07-09 14:46:21,788 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:46:21,789 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:46:58,666 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS3639_Messaid-CCC-QAFCO7_10.234.32.149_20250603021604.xml.gz
+[ 2025-07-09 14:46:58,668 ] [ PARSER_XML ][ INFO ] Processing file number (211/222)
+[ 2025-07-09 14:46:59,615 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:46:59,615 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:47:33,942 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS3648_Barwa-Affrodable-Hos-6_10.134.40.165_20250603021739.xml.gz
+[ 2025-07-09 14:47:33,944 ] [ PARSER_XML ][ INFO ] Processing file number (212/222)
+[ 2025-07-09 14:47:34,655 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:47:34,656 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:48:04,667 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS3649_Barwa-Affrodable-Hos-7_10.134.40.169_20250603022450.xml.gz
+[ 2025-07-09 14:48:04,669 ] [ PARSER_XML ][ INFO ] Processing file number (213/222)
+[ 2025-07-09 14:48:05,490 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:48:05,491 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:48:34,999 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS3657_Mesaieed-Woqod-St-21_10.234.32.189_20250603021849.xml.gz
+[ 2025-07-09 14:48:35,002 ] [ PARSER_XML ][ INFO ] Processing file number (214/222)
+[ 2025-07-09 14:48:35,749 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:48:35,750 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:49:09,403 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS3660_Mesaieed-Light-Ind-S_10.234.32.185_20250603021340.xml.gz
+[ 2025-07-09 14:49:09,406 ] [ PARSER_XML ][ INFO ] Processing file number (215/222)
+[ 2025-07-09 14:49:10,069 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:49:10,070 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:49:44,483 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS3720_Sealine-Water-Tour-COW1_10.234.32.205_20250603021916.xml.gz
+[ 2025-07-09 14:49:44,486 ] [ PARSER_XML ][ INFO ] Processing file number (216/222)
+[ 2025-07-09 14:49:45,306 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:49:45,306 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:50:14,858 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS3767_Jerianbatn-Karaana-1_10.134.9.205_20250603022147.xml.gz
+[ 2025-07-09 14:50:14,860 ] [ PARSER_XML ][ INFO ] Processing file number (217/222)
+[ 2025-07-09 14:50:15,795 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:50:15,795 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:50:53,313 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS3769_JerianElBatn-Farms_10.134.40.77_20250603022405.xml.gz
+[ 2025-07-09 14:50:53,317 ] [ PARSER_XML ][ INFO ] Processing file number (218/222)
+[ 2025-07-09 14:50:54,308 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:50:54,309 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:51:35,405 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS3770_Sealine-MOD-Camp_10.134.40.121_20250603022223.xml.gz
+[ 2025-07-09 14:51:35,414 ] [ PARSER_XML ][ INFO ] Processing file number (219/222)
+[ 2025-07-09 14:51:37,005 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:51:37,006 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:52:05,321 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS3774_JerianElBatn-JabalMarmi_10.134.40.125_20250603022405.xml.gz
+[ 2025-07-09 14:52:05,323 ] [ PARSER_XML ][ INFO ] Processing file number (220/222)
+[ 2025-07-09 14:52:06,143 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:52:06,144 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:52:33,457 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\GExport_OS3829_Sealine-Winter-camps_10.134.40.145_20250603022450.xml.gz
+[ 2025-07-09 14:52:33,460 ] [ PARSER_XML ][ INFO ] Processing file number (221/222)
+[ 2025-07-09 14:52:34,195 ] [ PARSER_XML ][ INFO ] Exporting files to C:\VDFData\Solutions\Nokia 150 Site Swap\Information Shared\dumps_150_nominals\output\20250709_1240
+[ 2025-07-09 14:52:34,196 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-09 14:53:06,429 ] [ PARSER_XML ][ INFO ] All files have been processed.
+[ 2025-07-12 08:08:47,301 ] [ PARSER_XML ][ INFO ] Initialized a new Parser object. Name of the thread is ParserGUI
+[ 2025-07-12 08:08:47,302 ] [ PARSER_XML ][ WARNING ] Date filter is overridden. Will use this filter for directory. 2025
+[ 2025-07-12 08:08:47,692 ] [ PARSER_XML ][ INFO ] Total files to be processed are : 34
+[ 2025-07-12 08:08:47,729 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\Users\ALI.MANSOOR\Downloads\TEMP_DELETE\Huawei MR Data 2025-06-15\dumpparsing\GExport_OS2700_SealineCamps1_10.234.10.9_20250603021236.xml.gz
+[ 2025-07-12 08:08:47,731 ] [ PARSER_XML ][ INFO ] Processing file number (000/034)
+[ 2025-07-12 08:08:48,079 ] [ PARSER_XML ][ INFO ] Exporting files to C:\Users\ALI.MANSOOR\Downloads\TEMP_DELETE\Huawei MR Data 2025-06-15\output\20250712_0808
+[ 2025-07-12 08:08:48,080 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250603
+[ 2025-07-12 08:09:45,424 ] [ PARSER_XML ][ INFO ] Initialized a new Parser object. Name of the thread is ParserGUI
+[ 2025-07-12 08:09:45,425 ] [ PARSER_XML ][ WARNING ] Date filter is overridden. Will use this filter for directory. 2025
+[ 2025-07-12 08:09:45,425 ] [ PARSER_XML ][ INFO ] Total files to be processed are : 1
+[ 2025-07-12 08:09:47,825 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\Users\ALI.MANSOOR\Downloads\TEMP_DELETE\Huawei MR Data 2025-06-15\bsch04\GExport_BSCH04_10.100.170.78_20250711020009.xml.gz
+[ 2025-07-12 08:09:47,913 ] [ PARSER_XML ][ INFO ] Processing file number (000/001)
+[ 2025-07-12 08:10:12,717 ] [ PARSER_XML ][ INFO ] Exporting files to C:\Users\ALI.MANSOOR\Downloads\TEMP_DELETE\Huawei MR Data 2025-06-15\bsch04\output\20250712_0809
+[ 2025-07-12 08:10:12,763 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250711
+[ 2025-07-12 08:11:59,491 ] [ PARSER_XML ][ INFO ] All files have been processed.

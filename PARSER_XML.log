@@ -1788,3 +1788,19 @@
 [ 2025-07-12 08:10:12,717 ] [ PARSER_XML ][ INFO ] Exporting files to C:\Users\ALI.MANSOOR\Downloads\TEMP_DELETE\Huawei MR Data 2025-06-15\bsch04\output\20250712_0809
 [ 2025-07-12 08:10:12,763 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250711
 [ 2025-07-12 08:11:59,491 ] [ PARSER_XML ][ INFO ] All files have been processed.
+[ 2025-07-24 18:49:33,926 ] [ PARSER_XML ][ INFO ] Initialized a new Parser object. Name of the thread is ParserGUI
+[ 2025-07-24 18:49:33,926 ] [ PARSER_XML ][ WARNING ] Date filter is overridden. Will use this filter for directory. 2025
+[ 2025-07-24 18:49:33,926 ] [ PARSER_XML ][ INFO ] Total files to be processed are : 0
+[ 2025-07-24 18:49:33,926 ] [ PARSER_XML ][ INFO ] All files have been processed.
+[ 2025-07-24 18:50:21,626 ] [ PARSER_XML ][ INFO ] Initialized a new Parser object. Name of the thread is ParserGUI
+[ 2025-07-24 18:50:21,626 ] [ PARSER_XML ][ WARNING ] Date filter is overridden. Will use this filter for directory. 2025
+[ 2025-07-24 18:50:21,626 ] [ PARSER_XML ][ INFO ] Total files to be processed are : 2
+[ 2025-07-24 18:50:27,413 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\Users\ALI.MANSOOR\Downloads\GExport_RNCH01_10.200.172.158_20250723020856.xml\GExport_RNCH01_10.200.172.158_20250723020856.xml.gz
+[ 2025-07-24 18:50:27,574 ] [ PARSER_XML ][ INFO ] Processing file number (000/002)
+[ 2025-07-24 18:51:09,370 ] [ PARSER_XML ][ INFO ] Exporting files to C:\Users\ALI.MANSOOR\Downloads\GExport_RNCH01_10.200.172.158_20250723020856.xml\output\20250724_1850
+[ 2025-07-24 18:51:09,389 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250723
+[ 2025-07-24 18:55:51,908 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\Users\ALI.MANSOOR\Downloads\GExport_RNCH01_10.200.172.158_20250723020856.xml\GExport_RNCH02_10.100.172.158_20250723020626.xml.gz
+[ 2025-07-24 18:55:52,131 ] [ PARSER_XML ][ INFO ] Processing file number (001/002)
+[ 2025-07-24 18:57:21,025 ] [ PARSER_XML ][ INFO ] Exporting files to C:\Users\ALI.MANSOOR\Downloads\GExport_RNCH01_10.200.172.158_20250723020856.xml\output\20250724_1850
+[ 2025-07-24 18:57:21,072 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250723
+[ 2025-07-24 19:06:58,929 ] [ PARSER_XML ][ INFO ] All files have been processed.

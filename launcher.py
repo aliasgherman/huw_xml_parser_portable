@@ -1,4 +1,4 @@
-import PySimpleGUI as sg
+# import PySimpleGUI as sg
 import os
 from app.modules.parserxml import *
 
@@ -41,7 +41,7 @@ from app.modules.parserxml import *
 
 if __name__ == "__main__":
     # main()
-    input_dir = "C:\\Users\\ALI.MANSOOR\\Downloads\\TEMP_DELETE\\Huawei MR Data 2025-06-15\\bsch04"
+    input_dir = "C:\\Users\\ALI.MANSOOR\\Downloads\\GExport_RNCH01_10.200.172.158_20250723020856.xml\\"
     output_dir = os.path.join(input_dir, "output")
 
     p_x = ParserXML(

@@ -41,7 +41,9 @@ from app.modules.parserxml import *
 
 if __name__ == "__main__":
     # main()
-    input_dir = "C:\\Users\\ALI.MANSOOR\\Downloads\\GExport_RNCH01_10.200.172.158_20250723020856.xml\\"
+    input_dir = (
+        "C:\\Users\\ALI.MANSOOR\\Downloads\\TEMP_DELETE\\sunsetcheck\\dumps_rnch01\\"
+    )
     output_dir = os.path.join(input_dir, "output")
 
     p_x = ParserXML(

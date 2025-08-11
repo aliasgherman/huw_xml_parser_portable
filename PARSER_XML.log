@@ -1804,3 +1804,71 @@
 [ 2025-07-24 18:57:21,025 ] [ PARSER_XML ][ INFO ] Exporting files to C:\Users\ALI.MANSOOR\Downloads\GExport_RNCH01_10.200.172.158_20250723020856.xml\output\20250724_1850
 [ 2025-07-24 18:57:21,072 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250723
 [ 2025-07-24 19:06:58,929 ] [ PARSER_XML ][ INFO ] All files have been processed.
+[ 2025-07-27 12:26:35,655 ] [ PARSER_XML ][ INFO ] Initialized a new Parser object. Name of the thread is ParserGUI
+[ 2025-07-27 12:26:35,656 ] [ PARSER_XML ][ WARNING ] Date filter is overridden. Will use this filter for directory. 2025
+[ 2025-07-27 12:26:35,657 ] [ PARSER_XML ][ INFO ] Total files to be processed are : 2
+[ 2025-07-27 12:26:49,438 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\Users\ALI.MANSOOR\Downloads\GExport_RNCH01_10.200.172.158_20250601020711.xml\3g dumps\GExport_RNCH01_10.200.172.158_20250601020711.xml.gz
+[ 2025-07-27 12:26:50,847 ] [ PARSER_XML ][ INFO ] Processing file number (000/002)
+[ 2025-07-27 12:27:55,440 ] [ PARSER_XML ][ INFO ] Exporting files to C:\Users\ALI.MANSOOR\Downloads\GExport_RNCH01_10.200.172.158_20250601020711.xml\3g dumps\output\20250727_1226
+[ 2025-07-27 12:27:55,500 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250601
+[ 2025-07-27 12:31:53,531 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\Users\ALI.MANSOOR\Downloads\GExport_RNCH01_10.200.172.158_20250601020711.xml\3g dumps\GExport_RNCH02_10.100.172.158_20250723020626.xml.gz
+[ 2025-07-27 12:31:53,644 ] [ PARSER_XML ][ INFO ] Processing file number (001/002)
+[ 2025-07-27 12:33:03,055 ] [ PARSER_XML ][ INFO ] Exporting files to C:\Users\ALI.MANSOOR\Downloads\GExport_RNCH01_10.200.172.158_20250601020711.xml\3g dumps\output\20250727_1226
+[ 2025-07-27 12:33:03,132 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250723
+[ 2025-07-27 12:38:53,172 ] [ PARSER_XML ][ INFO ] All files have been processed.
+[ 2025-07-27 13:46:37,714 ] [ PARSER_XML ][ INFO ] Initialized a new Parser object. Name of the thread is ParserGUI
+[ 2025-07-27 13:46:37,718 ] [ PARSER_XML ][ WARNING ] Date filter is overridden. Will use this filter for directory. 2025
+[ 2025-07-27 13:46:37,802 ] [ PARSER_XML ][ INFO ] Total files to be processed are : 2
+[ 2025-07-27 13:46:44,241 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\Users\ALI.MANSOOR\Downloads\GExport_RNCH01_10.200.172.158_20250601020711.xml\3g dumps\GExport_RNCH01_10.200.172.158_20250601020711.xml.gz
+[ 2025-07-27 13:46:44,401 ] [ PARSER_XML ][ INFO ] Processing file number (000/002)
+[ 2025-07-27 13:47:57,896 ] [ PARSER_XML ][ INFO ] Exporting files to C:\Users\ALI.MANSOOR\Downloads\GExport_RNCH01_10.200.172.158_20250601020711.xml\3g dumps\output\20250727_1346
+[ 2025-07-27 13:47:57,956 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250601
+[ 2025-07-27 13:52:38,802 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\Users\ALI.MANSOOR\Downloads\GExport_RNCH01_10.200.172.158_20250601020711.xml\3g dumps\GExport_RNCH02_10.100.172.158_20250601020242.xml.gz
+[ 2025-07-27 13:52:39,047 ] [ PARSER_XML ][ INFO ] Processing file number (001/002)
+[ 2025-07-27 13:54:57,877 ] [ PARSER_XML ][ INFO ] Exporting files to C:\Users\ALI.MANSOOR\Downloads\GExport_RNCH01_10.200.172.158_20250601020711.xml\3g dumps\output\20250727_1346
+[ 2025-07-27 13:54:58,003 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250601
+[ 2025-07-27 14:01:32,081 ] [ PARSER_XML ][ INFO ] All files have been processed.
+[ 2025-08-04 16:49:36,675 ] [ PARSER_XML ][ INFO ] Initialized a new Parser object. Name of the thread is ParserGUI
+[ 2025-08-04 16:49:36,675 ] [ PARSER_XML ][ WARNING ] Date filter is overridden. Will use this filter for directory. 2025
+[ 2025-08-04 16:49:36,690 ] [ PARSER_XML ][ INFO ] Total files to be processed are : 2
+[ 2025-08-04 16:49:36,722 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\Users\ALI.MANSOOR\Downloads\TEMP_DELETE\sunsetcheck\dumps\GExport_OI6221_DFC-1_10.134.19.177_20250804020437.xml.gz
+[ 2025-08-04 16:49:36,722 ] [ PARSER_XML ][ INFO ] Processing file number (000/002)
+[ 2025-08-04 16:49:37,133 ] [ PARSER_XML ][ INFO ] Exporting files to C:\Users\ALI.MANSOOR\Downloads\TEMP_DELETE\sunsetcheck\dumps\output\20250804_1649
+[ 2025-08-04 16:49:37,133 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250804
+[ 2025-08-04 16:49:59,392 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\Users\ALI.MANSOOR\Downloads\TEMP_DELETE\sunsetcheck\dumps\GExport_OI6224_DFC-4_10.134.19.189_20250804020437.xml.gz
+[ 2025-08-04 16:49:59,396 ] [ PARSER_XML ][ INFO ] Processing file number (001/002)
+[ 2025-08-04 16:49:59,910 ] [ PARSER_XML ][ INFO ] Exporting files to C:\Users\ALI.MANSOOR\Downloads\TEMP_DELETE\sunsetcheck\dumps\output\20250804_1649
+[ 2025-08-04 16:49:59,910 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250804
+[ 2025-08-04 16:50:12,299 ] [ PARSER_XML ][ INFO ] All files have been processed.
+[ 2025-08-07 20:07:28,364 ] [ PARSER_XML ][ INFO ] Initialized a new Parser object. Name of the thread is ParserGUI
+[ 2025-08-07 20:07:28,365 ] [ PARSER_XML ][ WARNING ] Date filter is overridden. Will use this filter for directory. 2025
+[ 2025-08-07 20:07:28,366 ] [ PARSER_XML ][ INFO ] Total files to be processed are : 1
+[ 2025-08-07 20:07:33,462 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\Users\ALI.MANSOOR\Downloads\TEMP_DELETE\sunsetcheck\dumps_rnch01\GExport_RNCH01_10.200.172.158_20250806020916.xml.gz
+[ 2025-08-07 20:07:33,603 ] [ PARSER_XML ][ INFO ] Processing file number (000/001)
+[ 2025-08-07 20:08:22,181 ] [ PARSER_XML ][ INFO ] Exporting files to C:\Users\ALI.MANSOOR\Downloads\TEMP_DELETE\sunsetcheck\dumps_rnch01\output\20250807_2007
+[ 2025-08-07 20:08:22,196 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250806
+[ 2025-08-07 20:11:21,688 ] [ PARSER_XML ][ INFO ] All files have been processed.
+[ 2025-08-07 20:32:22,248 ] [ PARSER_XML ][ INFO ] Initialized a new Parser object. Name of the thread is ParserGUI
+[ 2025-08-07 20:32:22,249 ] [ PARSER_XML ][ WARNING ] Date filter is overridden. Will use this filter for directory. 2025
+[ 2025-08-07 20:32:22,269 ] [ PARSER_XML ][ INFO ] Total files to be processed are : 1
+[ 2025-08-07 20:32:22,276 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\Users\ALI.MANSOOR\Downloads\TEMP_DELETE\sunsetcheck\dumps_rnch01\GExport_MV3805_CAR-Phase2_10.134.41.41_20250806022525.xml.gz
+[ 2025-08-07 20:32:22,277 ] [ PARSER_XML ][ INFO ] Processing file number (000/001)
+[ 2025-08-07 20:32:22,333 ] [ PARSER_XML ][ INFO ] Exporting files to C:\Users\ALI.MANSOOR\Downloads\TEMP_DELETE\sunsetcheck\dumps_rnch01\output\20250807_2032
+[ 2025-08-07 20:32:22,336 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250806
+[ 2025-08-07 20:32:33,559 ] [ PARSER_XML ][ INFO ] All files have been processed.
+[ 2025-08-07 20:50:41,796 ] [ PARSER_XML ][ INFO ] Initialized a new Parser object. Name of the thread is ParserGUI
+[ 2025-08-07 20:50:41,796 ] [ PARSER_XML ][ WARNING ] Date filter is overridden. Will use this filter for directory. 2025
+[ 2025-08-07 20:50:41,852 ] [ PARSER_XML ][ INFO ] Total files to be processed are : 3
+[ 2025-08-07 20:50:41,870 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\Users\ALI.MANSOOR\Downloads\TEMP_DELETE\sunsetcheck\dumps_rnch01\GExport_MV3801_CAR-Phase1_10.134.9.237_20250806022416.xml.gz
+[ 2025-08-07 20:50:41,871 ] [ PARSER_XML ][ INFO ] Processing file number (000/003)
+[ 2025-08-07 20:50:41,950 ] [ PARSER_XML ][ INFO ] Exporting files to C:\Users\ALI.MANSOOR\Downloads\TEMP_DELETE\sunsetcheck\dumps_rnch01\output\20250807_2050
+[ 2025-08-07 20:50:41,950 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250806
+[ 2025-08-07 20:50:52,619 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\Users\ALI.MANSOOR\Downloads\TEMP_DELETE\sunsetcheck\dumps_rnch01\GExport_MV3802_CAR-Phase1_10.134.9.241_20250806022202.xml.gz
+[ 2025-08-07 20:50:52,620 ] [ PARSER_XML ][ INFO ] Processing file number (001/003)
+[ 2025-08-07 20:50:52,755 ] [ PARSER_XML ][ INFO ] Exporting files to C:\Users\ALI.MANSOOR\Downloads\TEMP_DELETE\sunsetcheck\dumps_rnch01\output\20250807_2050
+[ 2025-08-07 20:50:52,757 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250806
+[ 2025-08-07 20:51:05,425 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\Users\ALI.MANSOOR\Downloads\TEMP_DELETE\sunsetcheck\dumps_rnch01\GExport_MV3805_CAR-Phase2_10.134.41.41_20250806022525.xml.gz
+[ 2025-08-07 20:51:05,426 ] [ PARSER_XML ][ INFO ] Processing file number (002/003)
+[ 2025-08-07 20:51:05,530 ] [ PARSER_XML ][ INFO ] Exporting files to C:\Users\ALI.MANSOOR\Downloads\TEMP_DELETE\sunsetcheck\dumps_rnch01\output\20250807_2050
+[ 2025-08-07 20:51:05,531 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250806
+[ 2025-08-07 20:51:15,351 ] [ PARSER_XML ][ INFO ] All files have been processed.

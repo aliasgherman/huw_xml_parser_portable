@@ -1872,3 +1872,39 @@
 [ 2025-08-07 20:51:05,530 ] [ PARSER_XML ][ INFO ] Exporting files to C:\Users\ALI.MANSOOR\Downloads\TEMP_DELETE\sunsetcheck\dumps_rnch01\output\20250807_2050
 [ 2025-08-07 20:51:05,531 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250806
 [ 2025-08-07 20:51:15,351 ] [ PARSER_XML ][ INFO ] All files have been processed.
+[ 2025-08-18 14:57:16,096 ] [ PARSER_XML ][ INFO ] Initialized a new Parser object. Name of the thread is ParserGUI
+[ 2025-08-18 14:57:16,097 ] [ PARSER_XML ][ WARNING ] Date filter is overridden. Will use this filter for directory. 2025
+[ 2025-08-18 14:57:16,098 ] [ PARSER_XML ][ INFO ] Total files to be processed are : 5
+[ 2025-08-18 14:57:16,146 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\Users\ALI.MANSOOR\Downloads\TEMP_DELETE\Huawei MR Data 2025-06-15\5 site dumps\GExport_OS2327_Berkat-Al-Awamer-11_10.134.41.89_20250818022347.xml.gz
+[ 2025-08-18 14:57:16,147 ] [ PARSER_XML ][ INFO ] Processing file number (000/005)
+[ 2025-08-18 14:57:16,856 ] [ PARSER_XML ][ INFO ] Exporting files to C:\Users\ALI.MANSOOR\Downloads\TEMP_DELETE\Huawei MR Data 2025-06-15\5 site dumps\output\20250818_1457
+[ 2025-08-18 14:57:16,857 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250818
+[ 2025-08-18 14:57:38,210 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\Users\ALI.MANSOOR\Downloads\TEMP_DELETE\Huawei MR Data 2025-06-15\5 site dumps\GExport_OS3507_Barwa-Al-Janoub-06_10.134.41.125_20250818022547.xml.gz
+[ 2025-08-18 14:57:38,212 ] [ PARSER_XML ][ INFO ] Processing file number (001/005)
+[ 2025-08-18 14:57:39,186 ] [ PARSER_XML ][ INFO ] Exporting files to C:\Users\ALI.MANSOOR\Downloads\TEMP_DELETE\Huawei MR Data 2025-06-15\5 site dumps\output\20250818_1457
+[ 2025-08-18 14:57:39,187 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250818
+[ 2025-08-18 14:58:05,291 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\Users\ALI.MANSOOR\Downloads\TEMP_DELETE\Huawei MR Data 2025-06-15\5 site dumps\GExport_OS3529_GWC-Berkat-Al-Awamer-N_10.134.41.177_20250818021723.xml.gz
+[ 2025-08-18 14:58:05,294 ] [ PARSER_XML ][ INFO ] Processing file number (002/005)
+[ 2025-08-18 14:58:06,244 ] [ PARSER_XML ][ INFO ] Exporting files to C:\Users\ALI.MANSOOR\Downloads\TEMP_DELETE\Huawei MR Data 2025-06-15\5 site dumps\output\20250818_1457
+[ 2025-08-18 14:58:06,244 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250818
+[ 2025-08-18 14:58:34,035 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\Users\ALI.MANSOOR\Downloads\TEMP_DELETE\Huawei MR Data 2025-06-15\5 site dumps\GExport_OS3857_UdaidBase-West_10.134.41.165_20250818022306.xml.gz
+[ 2025-08-18 14:58:34,037 ] [ PARSER_XML ][ INFO ] Processing file number (003/005)
+[ 2025-08-18 14:58:34,698 ] [ PARSER_XML ][ INFO ] Exporting files to C:\Users\ALI.MANSOOR\Downloads\TEMP_DELETE\Huawei MR Data 2025-06-15\5 site dumps\output\20250818_1457
+[ 2025-08-18 14:58:34,698 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250818
+[ 2025-08-18 14:59:01,276 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\Users\ALI.MANSOOR\Downloads\TEMP_DELETE\Huawei MR Data 2025-06-15\5 site dumps\GExport_OS3859_UdaidBase-South_10.134.41.77_20250818021723.xml.gz
+[ 2025-08-18 14:59:01,279 ] [ PARSER_XML ][ INFO ] Processing file number (004/005)
+[ 2025-08-18 14:59:02,111 ] [ PARSER_XML ][ INFO ] Exporting files to C:\Users\ALI.MANSOOR\Downloads\TEMP_DELETE\Huawei MR Data 2025-06-15\5 site dumps\output\20250818_1457
+[ 2025-08-18 14:59:02,111 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250818
+[ 2025-08-18 14:59:24,669 ] [ PARSER_XML ][ INFO ] All files have been processed.
+[ 2025-08-20 09:48:56,052 ] [ PARSER_XML ][ INFO ] Initialized a new Parser object. Name of the thread is ParserGUI
+[ 2025-08-20 09:48:56,053 ] [ PARSER_XML ][ WARNING ] Date filter is overridden. Will use this filter for directory. 2025
+[ 2025-08-20 09:48:56,053 ] [ PARSER_XML ][ INFO ] Total files to be processed are : 2
+[ 2025-08-20 09:48:56,064 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\Users\ALI.MANSOOR\Downloads\SiteDumps\GExport_NOS1007_InLand-Sea-Off-Rd_10.6.27.57_20250820021800.xml.gz
+[ 2025-08-20 09:48:56,065 ] [ PARSER_XML ][ INFO ] Processing file number (000/002)
+[ 2025-08-20 09:48:56,211 ] [ PARSER_XML ][ INFO ] Exporting files to C:\Users\ALI.MANSOOR\Downloads\SiteDumps\output\20250820_0948
+[ 2025-08-20 09:48:56,212 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250820
+[ 2025-08-20 09:49:08,479 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\Users\ALI.MANSOOR\Downloads\SiteDumps\GExport_OS1007_InLand-Sea-Off-Rd_10.234.10.189_20250820021310.xml.gz
+[ 2025-08-20 09:49:08,480 ] [ PARSER_XML ][ INFO ] Processing file number (001/002)
+[ 2025-08-20 09:49:08,855 ] [ PARSER_XML ][ INFO ] Exporting files to C:\Users\ALI.MANSOOR\Downloads\SiteDumps\output\20250820_0948
+[ 2025-08-20 09:49:08,856 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250820
+[ 2025-08-20 09:49:33,080 ] [ PARSER_XML ][ INFO ] All files have been processed.

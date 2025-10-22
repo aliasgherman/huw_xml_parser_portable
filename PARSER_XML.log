@@ -1908,3 +1908,15 @@
 [ 2025-08-20 09:49:08,855 ] [ PARSER_XML ][ INFO ] Exporting files to C:\Users\ALI.MANSOOR\Downloads\SiteDumps\output\20250820_0948
 [ 2025-08-20 09:49:08,856 ] [ PARSER_XML ][ INFO ] NE Date found is : 20250820
 [ 2025-08-20 09:49:33,080 ] [ PARSER_XML ][ INFO ] All files have been processed.
+[ 2025-10-15 10:57:55,149 ] [ PARSER_XML ][ INFO ] Initialized a new Parser object. Name of the thread is ParserGUI
+[ 2025-10-15 10:57:55,150 ] [ PARSER_XML ][ WARNING ] Date filter is overridden. Will use this filter for directory. 2025
+[ 2025-10-15 10:57:55,151 ] [ PARSER_XML ][ INFO ] Total files to be processed are : 2
+[ 2025-10-15 10:58:00,703 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\Users\ALI.MANSOOR\Downloads\XXX\GExport_BSCH01_10.200.169.78_20251015023315.xml.gz
+[ 2025-10-15 10:58:00,845 ] [ PARSER_XML ][ INFO ] Processing file number (000/002)
+[ 2025-10-15 10:58:50,250 ] [ PARSER_XML ][ INFO ] Exporting files to C:\Users\ALI.MANSOOR\Downloads\XXX\output\20251015_1057
+[ 2025-10-15 10:58:50,324 ] [ PARSER_XML ][ INFO ] NE Date found is : 20251015
+[ 2025-10-15 11:02:07,705 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\Users\ALI.MANSOOR\Downloads\XXX\GExport_BSCH05_10.226.144.123_20251015021928.xml.gz
+[ 2025-10-15 11:02:07,709 ] [ PARSER_XML ][ INFO ] Processing file number (001/002)
+[ 2025-10-15 11:02:08,972 ] [ PARSER_XML ][ INFO ] Exporting files to C:\Users\ALI.MANSOOR\Downloads\XXX\output\20251015_1057
+[ 2025-10-15 11:02:08,974 ] [ PARSER_XML ][ INFO ] NE Date found is : 20251015
+[ 2025-10-15 11:02:23,033 ] [ PARSER_XML ][ INFO ] All files have been processed.

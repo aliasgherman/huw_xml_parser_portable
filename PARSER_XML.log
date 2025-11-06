@@ -1920,3 +1920,16 @@
 [ 2025-10-15 11:02:08,972 ] [ PARSER_XML ][ INFO ] Exporting files to C:\Users\ALI.MANSOOR\Downloads\XXX\output\20251015_1057
 [ 2025-10-15 11:02:08,974 ] [ PARSER_XML ][ INFO ] NE Date found is : 20251015
 [ 2025-10-15 11:02:23,033 ] [ PARSER_XML ][ INFO ] All files have been processed.
+[ 2025-11-05 09:10:14,865 ] [ PARSER_XML ][ INFO ] Initialized a new Parser object. Name of the thread is ParserGUI
+[ 2025-11-05 09:10:14,865 ] [ PARSER_XML ][ WARNING ] Date filter is overridden. Will use this filter for directory. 2025
+[ 2025-11-05 09:10:14,865 ] [ PARSER_XML ][ ERROR ] An error occurred while exploring the directories (getallfiles) [WinError 3] The system cannot find the path specified: 'C:\\Users\\ALI.MANSOOR\\Downloads\\toprocess\\'
+[ 2025-11-05 09:10:14,865 ] [ PARSER_XML ][ INFO ] Total files to be processed are : 0
+[ 2025-11-05 09:10:14,865 ] [ PARSER_XML ][ INFO ] All files have been processed.
+[ 2025-11-05 09:10:41,131 ] [ PARSER_XML ][ INFO ] Initialized a new Parser object. Name of the thread is ParserGUI
+[ 2025-11-05 09:10:41,144 ] [ PARSER_XML ][ WARNING ] Date filter is overridden. Will use this filter for directory. 2025
+[ 2025-11-05 09:10:41,144 ] [ PARSER_XML ][ INFO ] Total files to be processed are : 1
+[ 2025-11-05 09:10:41,242 ] [ PARSER_XML ][ INFO ] Extracted a gz file C:\Users\ALI.MANSOOR\Downloads\T2 and PRS Groups\toprocess\GExport_OS3554_RLIC-NFE1-CCC-Camps_10.134.33.101_20251104022310.xml.gz
+[ 2025-11-05 09:10:41,242 ] [ PARSER_XML ][ INFO ] Processing file number (000/001)
+[ 2025-11-05 09:10:43,119 ] [ PARSER_XML ][ INFO ] Exporting files to C:\Users\ALI.MANSOOR\Downloads\T2 and PRS Groups\toprocess\output\20251105_0910
+[ 2025-11-05 09:10:43,119 ] [ PARSER_XML ][ INFO ] NE Date found is : 20251104
+[ 2025-11-05 09:11:15,181 ] [ PARSER_XML ][ INFO ] All files have been processed.

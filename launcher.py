@@ -41,7 +41,7 @@ from app.modules.parserxml import *
 
 if __name__ == "__main__":
     # main()
-    input_dir = "C:\\Users\\ALI.MANSOOR\\Downloads\\XXX\\"
+    input_dir = "C:\\Users\\ALI.MANSOOR\\Downloads\\T2 and PRS Groups\\toprocess\\"
     output_dir = os.path.join(input_dir, "output")
 
     p_x = ParserXML(
